@@ -1,0 +1,1 @@
+Katas from https://www.codewars.com/collections/all-star-code-challenges
